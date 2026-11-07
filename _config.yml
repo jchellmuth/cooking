@@ -1,0 +1,7 @@
+title: Recipes
+author: Johannes C Hellmuth
+description: Recipes and other food related posts.
+url: "https://cooking.jchellmuth.com"
+theme: minima
+# Private-ish personal page: not meant to be found through search engines (see also robots meta in _includes/head.html)
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
